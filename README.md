@@ -12,7 +12,7 @@ Please follow steps to upgrade your firmware to "Atomsmack 1.0"
 - Place the printer firmly on the desk/solid surface
 - Ensure everything is allright with your 3D printer before starting next upgrade steps ( I'm not responsible for skipping steps or uploading firmware in wrong order, or damaging your 3D Printer ) - if you hasitate, call out post with questions on Atomstack Cambrian 3D Printer Official User Group (Facebook)
 From now on, do not skip any steps:
-- Perform "Factory reset" 
+- Perform "Factory reset" (Settings -> System info -> restore factory settings)
 - Perform bed leveling procedure
 - Optionally run test.gcode (PLA FILAMENT 1.75 head), write down result
 - Next, grab micro usb card reader or use laptop/pc built in one
@@ -36,7 +36,7 @@ From now on, do not skip any steps:
 
 I will be happy any feedback on this firmware and testing above steps.
 Say thank you by sending at least 1$ for a coffee!
-Paypal [aniolo5@gmail.com](https://paypal.me/aniolo5?country.x=PL&locale.x=pl_PL)https://paypal.me/aniolo5?country.x=PL&locale.x=pl_PL
+Paypal [aniolo5@gmail.com]
 
 Yours, MM
 
