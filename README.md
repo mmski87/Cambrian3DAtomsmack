@@ -33,3 +33,10 @@ From now on, do not skip any steps:
 - Optionally repeat all steps if you want to test other firmware version
 - Optionally you can rollback at anytime to stock firmware from website
 - Enjoy your upgraded Atomsmack!
+
+I will be happy any feedback on this firmware and testing above steps.
+Say thank you by sending at least 1$ for a coffee!
+Paypal aniolo5@gmail.com
+
+Yours, MM
+
