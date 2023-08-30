@@ -16,7 +16,7 @@ From now on, do not skip any steps:
 - Perform bed leveling procedure
 - Optionally run test.gcode (PLA FILAMENT 1.75 head), write down result
 - Next, grab micro usb card reader or use laptop/pc built in one
-- Upload firmware to your printer from folder "START" 
+- Upload firmware to your printer from folder "START"  (POWER OFF, INSERT SD CARD, POWER ON, GREEN LIGHT, WAIT FOR UPDATE)
 - Perform "Factory reset"
 - Home your printer
 - Select "Move" option, go XYZ + 10 at least
