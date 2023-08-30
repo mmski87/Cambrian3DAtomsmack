@@ -36,7 +36,7 @@ From now on, do not skip any steps:
 
 I will be happy any feedback on this firmware and testing above steps.
 Say thank you by sending at least 1$ for a coffee!
-Paypal aniolo5@gmail.com
+Paypal [aniolo5@gmail.com](https://paypal.me/aniolo5?country.x=PL&locale.x=pl_PL)https://paypal.me/aniolo5?country.x=PL&locale.x=pl_PL
 
 Yours, MM
 
