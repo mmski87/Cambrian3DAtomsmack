@@ -16,15 +16,18 @@ From now on, do not skip any steps:
 - Perform bed leveling procedure
 - Optionally run test.gcode (PLA FILAMENT 1.75 head), write down result how much time it takes
 - Next, grab micro usb card reader or use laptop/pc built in one
-- Upload firmware to your printer from folder "TEST"  (POWER OFF, INSERT SD CARD, POWER ON, GREEN LIGHT, WAIT FOR UPDATE)
-- Perform "Factory reset"
+- Upload firmware to your printer from folder "1st firmware"  (POWER OFF, INSERT SD CARD, POWER ON, GREEN LIGHT, WAIT FOR UPDATE)
+- !!IMPORTANT!! Perform "Factory reset"
 - Home your printer
 - Perform PID autotuning
+- Upload firmware to your printer from folder "2nd firmware"  (POWER OFF, INSERT SD CARD, POWER ON, GREEN LIGHT, WAIT FOR UPDATE)
+  
 - From now on, you will be using fixed development firmware that may or may not cause problems (post feedback)
-
+- DO NOT FACTORY RESET AFTER THIS STEP
+- Home your printer
 - Print test.gcode, check if everything is OK, optionally post your result to my email
 - Optionally repeat all steps if you want to test other firmware version
-- Optionally you can rollback at anytime to stock firmware from stock folder
+- Optionally you can rollback at anytime to stock firmware from "2nd firmware" folder
 - Enjoy your upgraded Atomsmack!
 
 I will be happy any feedback on this firmware and testing above steps.
