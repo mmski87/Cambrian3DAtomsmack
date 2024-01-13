@@ -4,9 +4,9 @@ Atomstack Cambrian 3D Printer revised firmware "Atomsmack" by Mateusz Modzelewsk
 Since atomstack is refusing to provide suport i have created new firmware for printers for default mainboards:
 
 - Atomstack Cambrian
-- Atomstack Cambrian MAX
+- Atomstack Cambrian MAX (IN PROGRESS)
 
-Warning, minor issue Filament sensor will be disabled! (TBD)
+Warning, TESTING IN PROGRESS
 Please follow steps to upgrade your firmware to "Atomsmack 1.0"
 
 - Place the printer firmly on the desk/solid surface
@@ -14,24 +14,17 @@ Please follow steps to upgrade your firmware to "Atomsmack 1.0"
 From now on, do not skip any steps:
 - Perform "Factory reset" (Settings -> System info -> restore factory settings)
 - Perform bed leveling procedure
-- Optionally run test.gcode (PLA FILAMENT 1.75 head), write down result
+- Optionally run test.gcode (PLA FILAMENT 1.75 head), write down result how much time it takes
 - Next, grab micro usb card reader or use laptop/pc built in one
-- Upload firmware to your printer from folder "START"  (POWER OFF, INSERT SD CARD, POWER ON, GREEN LIGHT, WAIT FOR UPDATE)
+- Upload firmware to your printer from folder "TEST"  (POWER OFF, INSERT SD CARD, POWER ON, GREEN LIGHT, WAIT FOR UPDATE)
 - Perform "Factory reset"
 - Home your printer
-- Select "Move" option, go XYZ + 10 at least
-- Upload your selected firmware (NORMAL,MEDIUM,FAST)
-- Perform "Factory reset"
-- Home your printer
-- Select "Move" option, go XYZ + 10 at least
-- From now on, you will be using fixed development firmware that may or may not cause problems (post feedback)
-- Upload firmware "BASE"
 - Perform PID autotuning
-- Home your printer
-- Print test.gcode, check if everything is OK, optionally post your result including selected firmware
-- DO NOT CLICK FACTORY RESET EVER AGAIN (or it will go for original firmware settings, making it super slow) You will have to repeat all steps again.
+- From now on, you will be using fixed development firmware that may or may not cause problems (post feedback)
+
+- Print test.gcode, check if everything is OK, optionally post your result to my email
 - Optionally repeat all steps if you want to test other firmware version
-- Optionally you can rollback at anytime to stock firmware from website
+- Optionally you can rollback at anytime to stock firmware from stock folder
 - Enjoy your upgraded Atomsmack!
 
 I will be happy any feedback on this firmware and testing above steps.
