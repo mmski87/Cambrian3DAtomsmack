@@ -32,7 +32,7 @@ From now on, do not skip any steps:
 
 TEST GCODE SETTINGS:
 230*C/60*C
-100mm/s speed // 3000 mm/s² acceleration
+100mm/s speed // 2000 mm/s² acceleration
 
 I will be happy any feedback on this firmware and testing above steps.
 Say thank you by sending at least 1$ for a coffee!
