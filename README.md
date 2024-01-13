@@ -30,6 +30,10 @@ From now on, do not skip any steps:
 - Optionally you can rollback at anytime to stock firmware from "2nd firmware" folder
 - Enjoy your upgraded Atomsmack!
 
+TEST GCODE SETTINGS:
+230*C/60*C
+100mm/s speed // 4000 mm/s² acceleration
+
 I will be happy any feedback on this firmware and testing above steps.
 Say thank you by sending at least 1$ for a coffee!
 Paypal [aniolo5@gmail.com]
