@@ -3,8 +3,8 @@ Atomstack Cambrian 3D Printer revised firmware "Atomsmack" by Mateusz Modzelewsk
 
 Since atomstack is refusing to provide suport i have created new firmware for printers for default mainboards:
 
-- Atomstack Cambrian
-- Atomstack Cambrian MAX (IN PROGRESS)
+- Atomstack Cambrian PRO (READY)
+- Atomstack Cambrian MAX (IN DEVELOPMENT)
 
 Warning, TESTING IN PROGRESS
 Please follow steps to upgrade your firmware to "Atomsmack 1.0"
